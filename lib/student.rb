@@ -4,4 +4,4 @@ class Student
 end
 
 def initialize 
-  @knowledge
+  @knowledge = [ ]
