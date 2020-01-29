@@ -1,4 +1,4 @@
 class Student 
   class Student < User
-attr_accessor
+  attr_accessor
 end
