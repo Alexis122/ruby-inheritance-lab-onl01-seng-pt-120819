@@ -3,4 +3,5 @@ class Student
   attr_accessor :knowledge 
 end
 
-def intizliaze 
+def initialize 
+  
