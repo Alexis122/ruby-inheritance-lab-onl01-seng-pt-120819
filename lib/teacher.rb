@@ -8,3 +8,5 @@ end
 
   def Teacher
     Knowledge.sample
+  end
+end
