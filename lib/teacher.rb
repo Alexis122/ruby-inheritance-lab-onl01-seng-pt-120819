@@ -7,5 +7,4 @@ class Teacher
 end
 
   def Teacher
-    
-    
+    Knowledge.sample
