@@ -6,3 +6,5 @@ end
 def initialize 
   @knowledge = [ ]
 end
+
+def learn String
